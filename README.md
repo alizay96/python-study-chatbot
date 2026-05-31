@@ -1,4 +1,4 @@
-# Python Study Chatbot 😭
+# Python Study Chatbot 
 
 A beginner Python chatbot project with:
 - basic conversation
